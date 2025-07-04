@@ -1,5 +1,9 @@
 <h2 align="center">Hi 👋! My name is Rusheil and I'm a Computer Science Student specializing in AI and Data Science, from MIT World Peace University, Pune</h2>
 
+<p align="center">
+  🚀 Check out my portfolio here: <a href="https://rushei1.github.io/portfolio" target="_blank"><strong>rushei1.github.io/portfolio</strong></a>
+</p>
+
 ###
 
 <div align="center">
