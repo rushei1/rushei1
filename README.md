@@ -18,7 +18,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rushei1&theme=onedark" alt="GitHub Trophies" />
+</div>
 
+###
 <br clear="both">
 
 <div align="center">
