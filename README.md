@@ -7,19 +7,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/c6a61a1338493cfa3e48cefea1029a426a0650897dcd38de54d52964d7d4aab5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39642f31332f39652f39643133396563313133666336306533343831353766646438336163653339622e676966"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushei1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushei1&theme=onedark" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ###
