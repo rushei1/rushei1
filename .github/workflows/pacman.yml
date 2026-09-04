@@ -1,17 +1,13 @@
+# Disabled: github-pages deploy replaces the entire `output` branch
+# and deletes snake.svg. Pacman is not used in the README.
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
+    if: false
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -22,7 +18,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
