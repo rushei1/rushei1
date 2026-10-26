@@ -1,81 +1,56 @@
-<h2 align="center">Hi 👋! My name is Rusheil and I'm a Computer Science Engineer specializing in AI and Data Science, from MIT World Peace University, Pune</h2>
+<h1 align="center">Hi 👋 I'm Rusheil</h1>
 
 <p align="center">
-  🚀 Check out my portfolio here: <a href="https://rushei1.github.io/portfolio" target="_blank"><strong>rushei1.github.io/portfolio</strong></a>
+  <b>AI/ML Engineer · Pune, India</b><br>
+  I build LLM-powered apps, RAG systems, and the backends that keep them running.<br>
+  Working on AI for legal tech at <a href="https://github.com/Law-Hunt-AI">LawHunt AI</a> · B.Tech CSE (AI & DS), MIT-WPU
 </p>
 
-###
+<p align="center">
+  <a href="https://rushei1.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rusheil/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"></a>
+</p>
 
-<div align="center">
-  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🛠️ Tech I work with
 
-<div align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,js,cpp,mongodb,mysql,tensorflow,pandas,jupyter,docker,git,github,githubactions,vscode" alt="tech stack">
+</p>
 
-###
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-</div>
+## 🚀 Featured project
 
-###
+### 🧠 [Lazy Researcher Toolkit](https://github.com/rushei1/lazy-researcher-toolkit) ⭐ 139
+Search a topic and get a structured literature review: it fetches papers from arXiv, summarizes them, clusters related work, and exports everything to PDF.
+`FastAPI` · `Transformers` · `Sentence-BERT` · `Streamlit`
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rushei1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:rusheilbaath01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/8888820244" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/rusheilbaath" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+> 🔧 Currently upgrading it with an LLM pipeline, tests, CI, and a proper evaluation.
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/rushei1/rushei1/output/snake.svg" alt="Snake animation" />
+## 📄 Publications
 
-###
+- **Campus Navigation using Augmented Reality and Virtual Reality**, IJFMR → [doi.org/qttbf4](https://doi.org/qttbf4)
+- **An Offline Modular System for Profanity Detection and Speaker Diarization in Movies and Video Clips Using Whisper and PyAnnote**, IJFMR → [doi.org/g9kfph](https://doi.org/g9kfph)
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github.com/rushei1/rushei1/raw/main/profile/top-langs.svg" alt="top languages">
+</p>
+<p align="center">
+  <img src="https://github.com/rushei1/rushei1/raw/main/profile/trophy.svg" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rushei1/rushei1/output/snake.svg" alt="snake animation">
+</p>
+
+---
+
+<p align="center"><i>Open to AI/ML engineering roles and research collaborations. Say hi on LinkedIn 👆</i></p>
